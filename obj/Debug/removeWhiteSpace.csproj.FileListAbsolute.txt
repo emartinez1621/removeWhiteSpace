@@ -1,0 +1,13 @@
+c:\users\emartinez1621\documents\visual studio 2015\Projects\removeWhiteSpace\bin\Debug\removeWhiteSpace.exe.config
+c:\users\emartinez1621\documents\visual studio 2015\Projects\removeWhiteSpace\bin\Debug\removeWhiteSpace.exe
+c:\users\emartinez1621\documents\visual studio 2015\Projects\removeWhiteSpace\bin\Debug\removeWhiteSpace.pdb
+c:\users\emartinez1621\documents\visual studio 2015\Projects\removeWhiteSpace\obj\Debug\removeWhiteSpace.csprojResolveAssemblyReference.cache
+c:\users\emartinez1621\documents\visual studio 2015\Projects\removeWhiteSpace\obj\Debug\removeWhiteSpace.exe
+c:\users\emartinez1621\documents\visual studio 2015\Projects\removeWhiteSpace\obj\Debug\removeWhiteSpace.pdb
+E:\coding\removeWhiteSpace\bin\Debug\removeWhiteSpace.exe.config
+E:\coding\removeWhiteSpace\bin\Debug\removeWhiteSpace.exe
+E:\coding\removeWhiteSpace\bin\Debug\removeWhiteSpace.pdb
+E:\coding\removeWhiteSpace\obj\Debug\removeWhiteSpace.csprojResolveAssemblyReference.cache
+E:\coding\removeWhiteSpace\obj\Debug\removeWhiteSpace.csproj.CoreCompileInputs.cache
+E:\coding\removeWhiteSpace\obj\Debug\removeWhiteSpace.exe
+E:\coding\removeWhiteSpace\obj\Debug\removeWhiteSpace.pdb
